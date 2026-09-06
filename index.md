@@ -17,3 +17,8 @@ width="45%">
 
 #### A little about me
 I recently returned to school to retrain for a career in environmental science and completed a second bachelor’s degree at City University of New York where I designed an interdisciplinary degree in restoration ecology. I received a fellowship to work with a faculty mentor on a data-driven computational restoration model in R which I presented at four national and international conferences. I am now enrolled in the graduate certificate program in Earth Data Analytics at CU Boulder’s EarthLab. I want to use data to inform restoration planning and monitoring at landscape and regional scales. 
+
+#### My first project using Python
+Map of Prospect Park in Brooklyn, NY
+
+<embed type="text/html" src="img/prospectpark.html" width="600" height="600">
