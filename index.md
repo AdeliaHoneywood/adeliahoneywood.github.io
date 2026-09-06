@@ -2,8 +2,8 @@
 <img 
 src="/img/raritanbay.jpeg"
 alt="Raritan Bay Off the Southeast shore of Staten Island"
-height="45%"
-width="45%">
+height="50%"
+width="50%">
 
 #### Contact
 * <honeywood5@yahoo.com>
