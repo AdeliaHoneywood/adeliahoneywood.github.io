@@ -1,6 +1,8 @@
 ## Adelia Honeywood Harrison
 ### Student Portfolio for [Professional Graduate Certificate in Earth Data Analytics](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate) at University of Colorado Boulder
 
+![I live in New York City, a city of water. Photo by Adelia Honeywood Harrison](/img/raritanbay.jpeg "Raritan Bay Off the Southeast shore of Staten Island")
+
 #### Contact
 * <honeywood5@yahoo.com>
 * <https://github.com/AdeliaHoneywood>
