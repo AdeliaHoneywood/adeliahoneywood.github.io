@@ -18,8 +18,14 @@ width="60%">
 #### A little about me
 I recently returned to school to retrain for a career in environmental science and completed a second bachelor’s degree at City University of New York where I designed an interdisciplinary degree in restoration ecology. I received a fellowship to work with a faculty mentor on a data-driven computational restoration model in R which I presented at four national and international conferences. I am now enrolled in the graduate certificate program in Earth Data Analytics at CU Boulder’s EarthLab. I want to use data to inform restoration planning and monitoring at landscape and regional scales. 
 
+### Projects
+
 #### 75 years of rising temperatures at Jamaica Bay National Wildlife Refuge in New York City
-(img/nyc_temp_trend.jpeg)
+<img 
+src="/img/nyc_temp_trend.jpeg"
+alt="Plot of rising temperatures at Jamaica Bay National Wildlife Refuge since 1950"
+height="60%"
+width="60%">
 the data for this graph was collected from a [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/) Published by NOAA's [National Center for Environmental Information](https://www.ncei.noaa.gov/) from a monitoring station located at [JFK Airport](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094789/detail) adjacent to Jamaica Bay National Wildlife Refuge. The station is rated as having 100 percent complete data since the inception of monitoring in 1948. The data shows that average annual temperatures have increased by 0.23&deg C per decade, Which is slightly higher than the global rate of warming since 1982 of [0.20&deg C per decade](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature).
 
 According to the National Park Service, [Jamaica Bay has lost 72% Of its coastal saltmarsh](https://www.nps.gov/im/ncbn/jamaica-bay.htm) in the last 100 years. Climate change induced effects such as rising sea levels, increased frequency and intensity of storm events, and increased coastal flooding have contributed to the erosion of salt marsh and its replacement by open water. 
