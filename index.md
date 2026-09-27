@@ -4,6 +4,7 @@ src="/img/lower_manhattan_splash.jpeg"
 alt=" Lower Manhattan in a spray of mist, as viewed from a boat"
 height="60%"
 width="60%">
+Photo by Adelia Honeywood
 
 #### Contact
 * <honeywood5@yahoo.com>
