@@ -2,8 +2,8 @@
 <img 
 src="/img/lower_manhattan_splash.jpeg"
 alt=" Lower Manhattan in a spray of mist, as viewed from a boat"
-height="50%"
-width="50%">
+height="60%"
+width="60%">
 
 #### Contact
 * <honeywood5@yahoo.com>
