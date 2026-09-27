@@ -1,7 +1,7 @@
 #### I live in New York City, a city of water
 <img 
-src="/img/raritanbay.jpeg"
-alt="Raritan Bay Off the Southeast shore of Staten Island"
+src="/img/lower_manhattan_splash.jpeg"
+alt=" Lower Manhattan in a spray of mist, as viewed from a boat"
 height="50%"
 width="50%">
 
