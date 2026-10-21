@@ -7,11 +7,6 @@ width="60%">
 
 Photo by Adelia Honeywood
 
-#### Contact
-* <honeywood5@yahoo.com>
-* <https://github.com/AdeliaHoneywood>
-* <https://www.linkedin.com/in/adelia-honeywood-harrison-b88499288/>
-
 #### Education  
 * [Professional Graduate Certificate in Earth Data Analytics](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate), projected completion Summer 2027.
 * Masters of Natural Resource Stewardship, Colorado State University, projected completion Summer 2028.  
