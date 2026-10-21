@@ -22,7 +22,7 @@ I recently returned to school to retrain for a career in environmental science a
 
 ### Projects
 
-#### 75 years of rising temperatures at Jamaica Bay National Wildlife Refuge in New York City
+#### [75 years of rising temperatures at Jamaica Bay National Wildlife Refuge in New York City](portfolio_posts/07-NYC_climate_trend_link_to_portfolio.html)
 <img 
 src="/img/nyc_temp_trend.jpeg"
 alt="Plot of rising temperatures at Jamaica Bay National Wildlife Refuge since 1950">
