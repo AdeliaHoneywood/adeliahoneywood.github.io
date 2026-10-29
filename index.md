@@ -8,7 +8,7 @@ I recently returned to school to retrain for a career in environmental science a
 
 ### Course Projects
 
-#### Migration Map of Least Sandpiper <i>Calidris minutilla</i>
+#### Interactive Migration Map of Least Sandpiper <i>Calidris minutilla</i>
 
 <embed type="text/html" src="portfolio_posts/migration_carto_demo_adelia.html" width="800" height="800">
 
