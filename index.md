@@ -1,10 +1,10 @@
+#### A little about me
+I recently returned to school to retrain for a career in environmental science and completed a second bachelor’s degree at City University of New York where I designed an interdisciplinary degree in restoration ecology. I received a fellowship to work with a faculty mentor on a data-driven computational restoration model in R which I presented at four national and international conferences. I am now enrolled in the graduate certificate program in Earth Data Analytics at CU Boulder’s EarthLab. I want to use data to inform restoration planning and monitoring at landscape and regional scales. 
+
 #### Education  
 * [Professional Graduate Certificate in Earth Data Analytics](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate), projected completion Summer 2027.
 * Masters of Natural Resource Stewardship, Colorado State University, projected completion Summer 2028.  
 * Interdisciplinary Bachelor of Science in Restoration Ecology, Magna Cum Laude, City University of New York, 2025
-
-#### A little about me
-I recently returned to school to retrain for a career in environmental science and completed a second bachelor’s degree at City University of New York where I designed an interdisciplinary degree in restoration ecology. I received a fellowship to work with a faculty mentor on a data-driven computational restoration model in R which I presented at four national and international conferences. I am now enrolled in the graduate certificate program in Earth Data Analytics at CU Boulder’s EarthLab. I want to use data to inform restoration planning and monitoring at landscape and regional scales. 
 
 ### Course Projects
 
@@ -18,7 +18,7 @@ Least Sandpipers migrate in a broad front across all of North America, breed in 
 
 The map bears this all out (except that there appears to be a gap in the data in June.) It shows higher numbers of observations of Least Sandpiper along the mid- to upper-Atlantic Coast in August and September than in April and May. Using the slider, the map hints at the fact that spring migration from the wintering grounds begins via the southern U.S. and spreads to the coasts, without a similar retreat to the central U.S. in the fall. Least sandpiper may be declining, especially along the east coast (Nebel & Cooper, 2020). Jamaica Bay National Wildlife Refuge is part of the [Gateway National Recreation Area](https://www.nps.gov/gate/index.htm) with coastal sites that are important stopovers for migrating shorebirds.
 
-The map visualizes data from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) and is based on human observations of occurrence of Least Sandpiper, not counts, from iNaturalist(https://www.inaturalist.org/) Research-grade Observations. This data is joined to ecoregions from the [Ecoregions of the World Dataset](https://www.resolve.ngo/projects/ecoregions-world) published by RESOLVE.
+The map visualizes data from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) and is based on human observations of occurrence of Least Sandpiper, not counts, from [iNaturalist](https://www.inaturalist.org/) Research-grade Observations. This data is joined to ecoregions from the [Ecoregions of the World Dataset](https://www.resolve.ngo/projects/ecoregions-world) published by RESOLVE.
 
 eBird. 2021. eBird: An online database of bird distribution and abundance [web application]. eBird, Cornell Lab of Ornithology, Ithaca, New York. Available: http://www.ebird.org. (Accessed: Date [e.g., February 2, 2021]).
 
