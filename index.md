@@ -1,11 +1,4 @@
 #### I live in New York City, a city of water
-<img 
-src="/img/lower_manhattan_splash.jpeg"
-alt=" Lower Manhattan in a spray of mist, as viewed from a boat"
-height="60%"
-width="60%">
-
-Photo by Adelia Honeywood
 
 #### Education  
 * [Professional Graduate Certificate in Earth Data Analytics](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate), projected completion Summer 2027.
@@ -19,7 +12,7 @@ I recently returned to school to retrain for a career in environmental science a
 
 #### Migration Map of Least Sandpiper <i>Calidris minutilla</i>
 
-<embed type="text/html" src="portfolio_posts/migration_carto_demo_adelia.html">
+<embed type="text/html" src="portfolio_posts/migration_carto_demo_adelia.html" width="800" height="800">
 
 For birders in New York City, July and August are shorebird migration! The best site for observing shorebirds in NYC is at [Jamaica Bay National Wildlife Refuge’s](https://www.nps.gov/gate/learn/historyculture/jamaica-bay-wildlife-refuge.htm) East Pond, an important stopover site for migrating shorebirds to refuel on their southward journey. The Least Sandpiper (<i>Calidris minutilla</i>) is a tiny sandpiper, 5-6 inches long, that dependably shows up in Jamaica Bay each summer associating with flocks of Semipalmated Sandpipers (<i>Calidris pusilla</i>) who tend to exponentially outnumber it.
 
