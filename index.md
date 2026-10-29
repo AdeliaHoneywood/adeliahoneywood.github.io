@@ -1,5 +1,3 @@
-#### I live in New York City, a city of water
-
 #### Education  
 * [Professional Graduate Certificate in Earth Data Analytics](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate), projected completion Summer 2027.
 * Masters of Natural Resource Stewardship, Colorado State University, projected completion Summer 2028.  
