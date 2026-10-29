@@ -20,13 +20,13 @@ The map bears this all out (except that there appears to be a gap in the data in
 
 The map visualizes data from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) and is based on human observations of occurrence of Least Sandpiper, not counts, from [iNaturalist](https://www.inaturalist.org/) Research-grade Observations. This data is joined to ecoregions from the [Ecoregions of the World Dataset](https://www.resolve.ngo/projects/ecoregions-world) published by RESOLVE.
 
-eBird. 2021. eBird: An online database of bird distribution and abundance [web application]. eBird, Cornell Lab of Ornithology, Ithaca, New York. Available: http://www.ebird.org. (Accessed: Date [e.g., February 2, 2021]).
+>eBird. 2021. eBird: An online database of bird distribution and abundance [web application]. eBird, Cornell Lab of Ornithology, Ithaca, New York. Available: http://www.ebird.org. (Accessed: Date [e.g., February 2, 2021]).
 
-McNeil, R., & Burton, J. (1977). Southbound Migration of Shorebirds from the Gulf of St. Lawrence. The Wilson Bulletin, 89(1), 167–171. https://www.jstor.org/stable/4160890
+>McNeil, R., & Burton, J. (1977). Southbound Migration of Shorebirds from the Gulf of St. Lawrence. The Wilson Bulletin, 89(1), 167–171. https://www.jstor.org/stable/4160890
 
-Miller, E. H. (1983). Habitat and breeding cycle of the Least Sandpiper (Calidris minutilla) on Sable Island, Nova Scotia. Canadian Journal of Zoology, 61(12), 2880–2898. https://doi.org/10.1139/z83-376
+>Miller, E. H. (1983). Habitat and breeding cycle of the Least Sandpiper (Calidris minutilla) on Sable Island, Nova Scotia. Canadian Journal of Zoology, 61(12), 2880–2898. https://doi.org/10.1139/z83-376
 
-Nebel, S., & Cooper, J. M. (2020). Least Sandpiper (Calidris minutilla), version 1.0. Birds of the World. https://doi.org/10.2173/bow.leasan.01
+>Nebel, S., & Cooper, J. M. (2020). Least Sandpiper (Calidris minutilla), version 1.0. Birds of the World. https://doi.org/10.2173/bow.leasan.01
 
 #### [75 years of rising temperatures at Jamaica Bay National Wildlife Refuge in New York City](portfolio_posts/Jamaica_Bay_Climate_Trend.html)
 <img 
